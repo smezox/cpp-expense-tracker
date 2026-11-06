@@ -33,10 +33,9 @@ cpp-expense-tracker/
 │
 ├── expense_tracker.cpp
 ├── README.md
-└── screenshots/
-    ├── menu.png
-    ├── expenses.png
-    └── validation.png
+├── menu.png
+├── expenses.png
+└── validation.png
 ```
 
 ## How to Compile
