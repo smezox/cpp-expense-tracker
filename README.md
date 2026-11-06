@@ -1,7 +1,11 @@
-# Expense Tracker
+# Reliable Command-Line Utility – Expense Tracker
+
+## Project Overview
 
 The Expense Tracker is a beginner-friendly command-line application developed using C++. It allows users to record and manage daily expenses through a simple menu-driven interface.
+
 Users can add expenses, view all recorded expenses, calculate category-wise totals, and calculate their overall spending.
+
 The application also includes input validation to handle incorrect entries and prevent unexpected program termination.
 
 ## Features
@@ -24,6 +28,7 @@ The application also includes input validation to handle incorrect entries and p
 
 ## Project Structure
 
+```text
 cpp-expense-tracker/
 │
 ├── expense_tracker.cpp
@@ -32,10 +37,12 @@ cpp-expense-tracker/
     ├── menu.png
     ├── expenses.png
     └── validation.png
+```
 
 ## How to Compile
 
 Make sure G++ is installed on your computer.
+
 Open the terminal in the project folder and execute:
 
 ```bash
